@@ -8,9 +8,9 @@
 
 <p align="left">
   My name is <b>Varkey P Mathew</b><br>
-  🎓 MCA Graduate | 🤖 Aspiring Generative AI & Data Science Engineer<br>
+  🎓 MCA Graduate | 🤖 Aspiring Generative AI & Data Analytics Engineer<br>
   📍 India<br>
-  🚀 Building intelligent, data-driven systems with a strong focus on GenAI
+  🚀 Building intelligent systems with a strong focus on GenAI and data-driven insights
 </p>
 
 ---
@@ -20,7 +20,7 @@
 <p align="left">
   ✨ Creating bugs since 2021 — fixing them with logic, curiosity, and coffee<br>
   📘 Currently learning <b>Generative AI, LLMs, Machine Learning, Data Analytics</b><br>
-  🎯 Goal: Build scalable AI products & secure a role as an <b>AI / GenAI Engineer</b><br>
+  🎯 Goal: Build scalable AI-powered products & secure a role as an <b>AI / GenAI Engineer</b><br>
   🎲 Fun fact: I enjoy debugging more than writing fresh code — Sherlock Holmes fan 🕵️‍♂️
 </p>
 
@@ -50,6 +50,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+   <!-- Excel -->
+  <img src="https://skillicons.dev/icons?i=excel" height="40" />
+  <img width="12" />
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="powerbi logo" />
+  <img width="12" />
+
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo" />
+  <img width="12" />
+
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
 </div>
 
 ---
@@ -100,7 +114,7 @@
 
 <p align="left">
   🤖 Generative AI & LLM-based applications<br>
-  📊 Data Science & Machine Learning projects<br>
+  📊 Data Analytics dashboards & insights using SQL, Excel, Power BI, Tableau<br>
   🧠 DSA practice using Python & problem-solving challenges
 </p>
 
