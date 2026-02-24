@@ -7,7 +7,7 @@
 <h1 align="left">Hey there 👋</h1>
 
 <p align="left">
-  My name is <b>Varkey P Mathew</b><br>
+  <h3>My name is <b>Varkey P Mathew</b></h3><br>
   🎓 MCA Graduate | 🤖 Aspiring Generative AI & Data Analytics Engineer<br>
   📍 India<br>
   🚀 Building intelligent systems with a strong focus on GenAI and data-driven insights
